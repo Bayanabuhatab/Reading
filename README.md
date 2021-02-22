@@ -23,3 +23,6 @@ Every color on a computer screen is created by mixing amounts of red, green, and
 >Hue refers to the dominant color family.
 >Saturation Saturation refers to the amount of gray in a color
 >Brightness is an attribute of visual perception in which a source appears to be radiating or reflecting light
+>
+When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
+
